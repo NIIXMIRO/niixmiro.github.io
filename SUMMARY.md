@@ -1,4 +1,4 @@
-* [隐藏 首页MINIAPP](隐藏 首页MINIAPP.md)
+* [首页MINIAPP](首页MINIAPP.md)
 * [修改首页时区](修改首页时区.md)
 * [查看运动记录](查看运动记录.md)
 * [打开第三方app](打开第三方app.md)
