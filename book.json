@@ -1,4 +1,8 @@
 {
+    "plugins": [
+        "cloud-image",
+        "comment"
+    ],
     "pluginsConfig": {
         "theme-default": {
             "auto_open": true
