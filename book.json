@@ -1,9 +1,4 @@
 {
-    "plugins": [
-        "cloud-image",
-        "comment",
-        "dzan"
-    ],
     "pluginsConfig": {
         "theme-default": {
             "auto_open": true
