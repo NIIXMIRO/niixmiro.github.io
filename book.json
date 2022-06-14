@@ -1,7 +1,8 @@
 {
     "plugins": [
         "cloud-image",
-        "comment"
+        "comment",
+        "dzan"
     ],
     "pluginsConfig": {
         "theme-default": {
