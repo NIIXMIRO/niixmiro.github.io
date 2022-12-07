@@ -5,7 +5,7 @@
 > LANNO 使用指南&emsp; | &emsp;User Guide &emsp;| &emsp;使用方法ガイド
 
 
-
+ 
 
 - 日常信息&emsp;&emsp;&emsp;|&emsp;&emsp;&emsp;Daily information&emsp;&emsp;&emsp;|&emsp;&emsp;&emsp;日常情報
 - 健身课程&emsp;&emsp;&emsp;|&emsp;&emsp;&emsp;Fitness Course&emsp;&emsp;&emsp;|&emsp;&emsp;&emsp;フィットネスコース 
