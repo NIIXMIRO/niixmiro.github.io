@@ -1,4 +1,4 @@
-# [<img width="30px" style="border-radius: 50%" bor src="/images/logo.png"> LANNO User Guide](/en/README.md)
+# ![<img width="30px" style="border-radius: 50%" bor src="./images/logo.png"> LANNO User Guide](/en/README.md)
 
 
 
@@ -13,3 +13,4 @@
 
 
 [Getting Started](/en/README.md)
+

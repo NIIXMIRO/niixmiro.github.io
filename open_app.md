@@ -2,12 +2,12 @@
 
 1.在首页从右向左滑动2次，进入第三页。
 
-![img](http://images.qicheke.com/Fs8B2vp6VJwvBhVDM3dEIv03QKpr ':size=30%')
+![img](images/open_app/image-20221220105202698.png ':size=30%')
 
 2.选择你所需要的第三方app，点击“download”，下载app。
 
-![img](http://images.qicheke.com/Fnyqo23gikN42osEXqJcHQIoZCqr ':size=30%')
+![img](images/open_app/image-20221220105212522.png ':size=30%')
 
 3.下载后，点击“open”，即可开始使用第三方app。
 
-![img](http://images.qicheke.com/Fms8MtN9xnfMhzl4xdrPM1JWfWT8 ':size=30%')
+![img](images/open_app/image-20221220105221599.png ':size=30%')

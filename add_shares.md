@@ -2,7 +2,7 @@
 
 1.点击主页mini app “股票信息”
 
-![img](images/add_shares/image-20221219170057765.png ':size=30%')
+![img](images/add_shares/image-20221219171901169.png ':size=30%')
 
 2.点击右上角“加号”，输入您需要查看的的股票代码，点击“OK”
 
