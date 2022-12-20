@@ -1,7 +1,10 @@
+<style type="text/css">
+.cover .cover-main {
+    margin:0 0px;
+    }
+</style>
 
-<img width="50px" style="border-radius: 50%" bor src="/images/logo.png">
-
-
+<video src="//imgcache.qq.com/bossweb/service/v8/media/index-video.mp4" loop="" autoplay="" preload="" muted="" width="100%"></video>
 > LANNO 使用指南&emsp; | &emsp;User Guide &emsp;| &emsp;使用方法ガイド
 
 
