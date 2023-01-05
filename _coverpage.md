@@ -18,5 +18,5 @@
 
 
 [🇨🇳简体中文](/README.md) 
-[🇺🇸English](/en/README.md) 
-[🇯🇵Japanese](/jp/README.md) 
+[🇺🇸ENGLISH](/en/README.md) 
+[🇯🇵日本語](/jp/README.md) 
