@@ -1,1 +1,1 @@
-[markdown](./register_login.md ':include width=100%')
+[markdown](/jp/register_login.md ':include width=100%')
