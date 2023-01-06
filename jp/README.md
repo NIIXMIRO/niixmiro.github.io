@@ -1,0 +1,1 @@
+[markdown](./register_login.md ':include width=100%')
