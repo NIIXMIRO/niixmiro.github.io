@@ -9,4 +9,4 @@
 
 3.設定ページに入ったら、「スリープ」と「明るさ」の設定を入力します。
 
-![Screenshot_2023-01-06-15-05-46-691_com.niix.pad](images/sleep/Screenshot_2023-01-06-15-05-46-691_com.niix.pad.jpg)
+![Screenshot_2023-01-06-15-05-46-691_com.niix.pad](images/sleep/Screenshot_2023-01-06.jpg)
