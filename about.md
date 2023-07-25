@@ -16,6 +16,6 @@
 
 ## 微信公众号
 
-![img](../images/qrcode.jpg)
+![img](./images/qrcode.jpg)
 
-> [!tip]非常感谢您关注和支持选择**Lanno**，我们会一直致力于改进Lanno的功能及用户体验 ^\_^
+> [!tip]非常感谢您关注和支持选择**Lanno**，我们会一直致力于改进Lanno的功能及用户体验 ^\_^               
